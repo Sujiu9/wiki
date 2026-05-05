@@ -1,0 +1,26 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Build outputs
+*.o
+*.obj
+*.exe
+*.dll
+*.dylib
+*.so
+
+# CodeBuddy
+.codebuddy/
