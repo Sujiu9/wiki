@@ -16,12 +16,12 @@ macOS 的配置体系与 Windows 完全不同，没有"注册表"这样的集中
 
 ## 目录
 
-- [plist 文件详解](./plist.md) 🟢
-- [launchd 与守护进程](./launchd.md) 🟡
-- [defaults 命令](./defaults-command.md) 🟢
-- [Shell 配置文件加载机制](./shell-config-loading.md) 🟡
-- [环境变量配置](./environment-variables.md) 🟢
-- [MDM 与配置描述文件](./mdm-profiles.md) 🔴
+- [plist 文件详解](./plist文件详解.md) 🟢
+- [launchd 与守护进程](./launchd与守护进程.md) 🟡
+- [defaults 命令](./defaults命令.md) 🟢
+- [Shell 配置文件加载机制](./Shell配置文件加载机制.md) 🟡
+- [环境变量配置](./环境变量配置.md) 🟢
+- [MDM 与配置描述文件](./MDM与配置描述文件.md) 🔴
 
 ## plist 文件的常见位置
 

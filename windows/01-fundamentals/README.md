@@ -10,11 +10,11 @@ Windows 基于 NT（New Technology）内核，采用混合内核架构：
 
 ## 目录
 
-- [NT 内核架构](./nt-architecture.md) 🟢
-- [进程与线程](./process-and-thread.md) 🟢
-- [内存管理](./memory-management.md) 🟡
-- [用户态与内核态](./user-kernel-space.md) 🟡
-- [Windows 对象模型](./object-model.md) 🟡
+- [NT 内核架构](./NT内核架构.md) 🟢
+- [进程与线程](./进程与线程.md) 🟢
+- [内存管理](./内存管理.md) 🟡
+- [用户态与内核态](./用户态与内核态.md) 🟡
+- [Windows 对象模型](./Windows对象模型.md) 🟡
 
 ## 关键术语
 

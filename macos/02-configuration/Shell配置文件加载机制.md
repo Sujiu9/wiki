@@ -189,5 +189,5 @@ zsh -c "echo \$PATH"  # 模拟 Non-interactive（脚本模式）
 
 ## 延伸阅读
 
-- [环境变量配置](./environment-variables.md)
-- [跨平台对比：Shell 配置 vs Windows 环境变量](../../cross-platform/comparison/shell-vs-registry.md)
+- [环境变量配置](./环境变量配置.md)
+- [跨平台对比：配置体系](../../cross-platform/comparison/配置体系对比.md)

@@ -82,13 +82,13 @@ connection.resume()  // 激活连接
 
 - **前置知识**：文档开头注明阅读前需要了解的内容，并给出链接
   ```markdown
-  > 📋 前置知识：[进程基础概念](../01-fundamentals/process-basics.md)
+  > 📋 前置知识：[进程基础概念](../01-fundamentals/进程基础概念.md)
   ```
 - **延伸阅读**：文档末尾指向下一步学习内容
   ```markdown
   ## 延伸阅读
-  - [XPC 高级用法](./xpc-advanced.md)
-  - [跨平台对比：IPC 机制](../../cross-platform/comparison/ipc.md)
+  - [XPC 高级用法](./XPC高级用法.md)
+  - [跨平台对比：IPC 机制](../../cross-platform/comparison/IPC机制对比.md)
   ```
 - **交叉引用**：涉及另一平台的类似概念时，添加对比链接
 - **术语一致性**：专有名词首次出现给出中英对照，后续统一使用同一表述

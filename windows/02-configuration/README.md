@@ -16,11 +16,11 @@ Windows 采用以**注册表（Registry）**为核心的集中式配置管理，
 
 ## 目录
 
-- [注册表详解](./registry.md) 🟢
-- [注册表编程](./registry-programming.md) 🟡
-- [组策略](./group-policy.md) 🟡
-- [环境变量](./environment-variables.md) 🟢
-- [Windows 服务配置](./service-configuration.md) 🟡
+- [注册表详解](./注册表详解.md) 🟢
+- [注册表编程](./注册表编程.md) 🟡
+- [组策略](./组策略.md) 🟡
+- [环境变量](./环境变量.md) 🟢
+- [Windows 服务配置](./Windows服务配置.md) 🟡
 
 ## 注册表核心结构
 
