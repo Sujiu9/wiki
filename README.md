@@ -8,20 +8,20 @@
 .
 ├── macos/                  # macOS 平台相关
 │   ├── 01-fundamentals/    # 基础概念（内核、进程、内存等）
-│   ├── 02-configuration/   # 配置文件（plist、launchd、defaults）
-│   ├── 03-filesystem/      # 文件系统（APFS、权限、扩展属性）
-│   ├── 04-ipc/             # 进程间通信（XPC、Mach ports、Unix sockets）
-│   ├── 05-security/        # 安全机制（SIP、Gatekeeper、Keychain、Notarization）
-│   ├── 06-networking/      # 网络（Network.framework、socket）
+│   ├── 02-configuration/   # 配置文件（plist、launchd、defaults、Shell）
+│   ├── 03-security/        # 安全机制（沙盒、SIP、代码签名、TCC）
+│   ├── 04-filesystem/      # 文件系统（APFS、FileProvider 投影）
+│   ├── 05-networking/      # 网络（NetworkExtension、Network.framework）
+│   ├── 06-ipc/             # 进程间通信（XPC、Mach ports、Unix sockets）
 │   └── 07-system-services/ # 系统服务（launchd、IOKit、Core Foundation）
 │
 ├── windows/                # Windows 平台相关
 │   ├── 01-fundamentals/    # 基础概念（NT 内核、进程、内存等）
-│   ├── 02-configuration/   # 配置文件（注册表、INI、组策略）
-│   ├── 03-filesystem/      # 文件系统（NTFS、ACL、符号链接）
-│   ├── 04-ipc/             # 进程间通信（Named Pipes、COM、WCF）
-│   ├── 05-security/        # 安全机制（UAC、DPAPI、Windows Defender）
-│   ├── 06-networking/      # 网络（Winsock、WinHTTP、WinINet）
+│   ├── 02-configuration/   # 配置文件（注册表、组策略、环境变量）
+│   ├── 03-filesystem/      # 文件系统（NTFS、ProjFS 投影）
+│   ├── 04-ipc/             # 进程间通信（Named Pipes、COM、ALPC）
+│   ├── 05-security/        # 安全机制（UAC、DPAPI、AppContainer）
+│   ├── 06-networking/      # 网络（Winsock、WinHTTP）
 │   └── 07-system-services/ # 系统服务（SCM、WMI、ETW）
 │
 ├── cross-platform/         # 跨平台对比与通用知识
