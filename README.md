@@ -28,6 +28,15 @@
 │   ├── comparison/         # macOS vs Windows 对比文档
 │   └── patterns/           # 跨平台开发模式与最佳实践
 │
+├── workbuddy-sandbox/      # WorkBuddySandbox 底层能力训练专区
+│   ├── 01-进程与沙盒/
+│   ├── 02-虚拟文件系统与投影/
+│   ├── 03-IPC协议与服务进程/
+│   ├── 04-Rust跨语言边界/
+│   ├── 05-快照与变更管理/
+│   ├── 06-网络拦截/
+│   └── 07-调试与系统权限/
+│
 └── examples/               # 实践代码示例
     ├── macos/
     └── windows/
